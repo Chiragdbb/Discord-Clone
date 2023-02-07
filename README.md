@@ -1,2 +1,3 @@
-This is a clone of Discord.
-You can view it at: https://discord-dummy.netlify.app/
+This is a clone of Discord made using Tailwindcss.
+
+Live at: https://discord-dummy.netlify.app/
