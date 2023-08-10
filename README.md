@@ -1,3 +1,3 @@
-This is a clone of Discord made using Tailwindcss.
+# This is a clone of Discord made using Tailwindcss.
 
-Live at: https://discord-dummy.netlify.app/
+## Live at <a href="https://discord-dummy.netlify.app/" target = "_blank">here</a>
